@@ -1,0 +1,94 @@
+
+
+
+	WITHDRAW           : 2000
+	TRANSACTION        : Cash Withdrawal
+	ACCOUNT NUMBER     : 567891234
+	ACCOUNT NAME       : Siraj Dujana
+	AVAILABLE BALANCE  : 8000
+	CARD TYPE          : Debit Mastercard
+	WITHDRAW TIME      : Thu Dec 22 12:55:24 2022
+
+_________________________________________________________________________________________
+
+	DEPOSITED AMOUNT   : 2000
+	TRANSACTION        : Cash Deposit
+	ACCOUNT NUMBER     : 567891234
+	ACCOUNT NAME       : Siraj Dujana
+	AVAILABLE BALANCE  : 10000
+	CARD NAME          : Debit Mastercard
+	DEPOSIT TIME       : Thu Dec 22 12:55:41 2022
+
+_________________________________________________________________________________________
+
+
+
+
+
+Bank Name          : 1000
+Transfered Amount  : 2000
+Account Number     : 5678998765
+TRANSFER TIME      : Thu Dec 22 12:55:52 2022
+
+_________________________________________________________________________________________
+
+
+
+
+	WITHDRAW           : -300
+	TRANSACTION        : Cash Withdrawal
+	ACCOUNT NUMBER     : 567891234
+	ACCOUNT NAME       : Siraj Dujana
+	AVAILABLE BALANCE  : 10300
+	CARD TYPE          : Debit Mastercard
+	WITHDRAW TIME      : Thu Dec 22 14:39:37 2022
+
+_________________________________________________________________________________________
+
+	DEPOSITED AMOUNT   : 4000
+	TRANSACTION        : Cash Deposit
+	ACCOUNT NUMBER     : 567891234
+	ACCOUNT NAME       : Siraj Dujana
+	AVAILABLE BALANCE  : 14300
+	CARD NAME          : Debit Mastercard
+	DEPOSIT TIME       : Thu Dec 22 14:40:00 2022
+
+_________________________________________________________________________________________
+
+
+
+
+	WITHDRAW           : 15000
+	TRANSACTION        : Cash Withdrawal
+	ACCOUNT NUMBER     : 567894321
+	ACCOUNT NAME       : Aaqib Abbasi
+	AVAILABLE BALANCE  : 5000
+	CARD TYPE          : Debit Mastercard
+	WITHDRAW TIME      : Thu Dec 22 16:19:03 2022
+
+_________________________________________________________________________________________
+
+
+
+
+
+Bank Name          : Al Habib
+Transfered Amount  : 2500
+Account Number     : 567891234
+TRANSFER TIME      : Thu Dec 22 16:19:33 2022
+
+_________________________________________________________________________________________
+
+
+
+
+	WITHDRAW           : 80
+	TRANSACTION        : Cash Withdrawal
+	ACCOUNT NUMBER     : 567891234
+	ACCOUNT NAME       : Siraj Dujana
+	AVAILABLE BALANCE  : 9920
+	CARD TYPE          : Debit Mastercard
+	WITHDRAW TIME      : Thu Jan 05 20:41:17 2023
+
+_________________________________________________________________________________________
+
